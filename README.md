@@ -1,10 +1,8 @@
-# Awesome Superintelligence [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome SI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ![banner](assets/banner.png)
 
-> A curated list of resources about superintelligence: AI that far surpasses human intelligence.
-
-Superintelligence is also known as SI or ASI (artificial super intelligence). This list collects papers, systems, policy, talks, books, and fiction about it. Resources about AI in general are out of scope.
+A curated reading map on superintelligence, AI that far surpasses human intelligence: the history, forecasts, alignment, governance, optimistic views, skeptical arguments, and fiction. Resources about AI in general are out of scope.
 
 ## Contents
 
